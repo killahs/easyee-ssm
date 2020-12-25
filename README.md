@@ -1,4 +1,4 @@
-# Easyee SSM 企业级快速开发管理平台
+# Easyee SSM 企业级快速开发平台
 
 ## 介绍
 
